@@ -7,7 +7,7 @@ It applies **Object-Oriented Programming (OOP)** principles and integrates sever
 ## 🚀 Features
 
 - Add and manage glucose readings
-- Analayse data using **Pandas**
+- Analyse data using **Pandas**
 - Display glucose data in a **matplotlib** line chart  
 - Store data locally with **SQLite**  
 - Organize code with **OOP** for better readability and maintainability  
